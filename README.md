@@ -782,7 +782,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] AWS CLI.
 - [ ] AWS API.
 - [ ] AWS SDK.
-- [x] ==AWS Management Console.==
+- [x] ==AWS Management Console==.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -791,7 +791,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] Replacing an existing EC2 instance with a larger, more powerful one.
 - [ ] Increasing the compute capacity of a single EC< instance to address the growing demands of an application.
 - [ ] Adding more RAM capacity to an EC2 instance.
-- [x] Adding more EC2 instances of the same size to handle an increase in traffic.
+- [x] ==Adding more EC2 instances of the same size to handle an increase in traffic==.
 
 **[⬆ Back to Top](#table-of-contents)**
 
