@@ -782,7 +782,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] AWS CLI.
 - [ ] AWS API.
 - [ ] AWS SDK.
-- [x] AWS Management Console.
+- [x] ==AWS Management Console.==
 
 **[⬆ Back to Top](#table-of-contents)**
 
